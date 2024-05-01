@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SpiralMaker/1.0.0": {
+        "runtime": {
+          "SpiralMaker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpiralMaker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

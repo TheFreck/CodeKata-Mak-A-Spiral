@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralMaker", "SpiralMaker\SpiralMaker.csproj", "{74018EB7-F8C8-4CAC-B8D0-07CFD050819F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralMaker.Specs", "SpiralMaker.Specs\SpiralMaker.Specs.csproj", "{5DADD34A-C06F-4807-B1FB-8D1E4A7E583F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74018EB7-F8C8-4CAC-B8D0-07CFD050819F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74018EB7-F8C8-4CAC-B8D0-07CFD050819F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74018EB7-F8C8-4CAC-B8D0-07CFD050819F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74018EB7-F8C8-4CAC-B8D0-07CFD050819F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DADD34A-C06F-4807-B1FB-8D1E4A7E583F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DADD34A-C06F-4807-B1FB-8D1E4A7E583F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DADD34A-C06F-4807-B1FB-8D1E4A7E583F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DADD34A-C06F-4807-B1FB-8D1E4A7E583F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DAFE645-6F8C-47AD-BCC1-C4B5DBA19286}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\chris.freckleton\source\repos\Katas\ProperFractions\SpiralMaker\SpiralMaker\bin\Debug\net8.0\SpiralMaker.exe
+C:\Users\chris.freckleton\source\repos\Katas\ProperFractions\SpiralMaker\SpiralMaker\bin\Debug\net8.0\SpiralMaker.deps.json
+C:\Users\chris.freckleton\source\repos\Katas\ProperFractions\SpiralMaker\SpiralMaker\bin\Debug\net8.0\SpiralMaker.runtimeconfig.json
+C:\Users\chris.freckleton\source\repos\Katas\ProperFractions\SpiralMaker\SpiralMaker\bin\Debug\net8.0\SpiralMaker.dll
+C:\Users\chris.freckleton\source\repos\Katas\ProperFractions\SpiralMaker\SpiralMaker\bin\Debug\net8.0\SpiralMaker.pdb
+C:\Users\chris.freckleton\source\repos\Katas\ProperFractions\SpiralMaker\SpiralMaker\obj\Debug\net8.0\SpiralMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris.freckleton\source\repos\Katas\ProperFractions\SpiralMaker\SpiralMaker\obj\Debug\net8.0\SpiralMaker.AssemblyInfoInputs.cache
+C:\Users\chris.freckleton\source\repos\Katas\ProperFractions\SpiralMaker\SpiralMaker\obj\Debug\net8.0\SpiralMaker.AssemblyInfo.cs
+C:\Users\chris.freckleton\source\repos\Katas\ProperFractions\SpiralMaker\SpiralMaker\obj\Debug\net8.0\SpiralMaker.csproj.CoreCompileInputs.cache
+C:\Users\chris.freckleton\source\repos\Katas\ProperFractions\SpiralMaker\SpiralMaker\obj\Debug\net8.0\SpiralMaker.dll
+C:\Users\chris.freckleton\source\repos\Katas\ProperFractions\SpiralMaker\SpiralMaker\obj\Debug\net8.0\refint\SpiralMaker.dll
+C:\Users\chris.freckleton\source\repos\Katas\ProperFractions\SpiralMaker\SpiralMaker\obj\Debug\net8.0\SpiralMaker.pdb
+C:\Users\chris.freckleton\source\repos\Katas\ProperFractions\SpiralMaker\SpiralMaker\obj\Debug\net8.0\SpiralMaker.genruntimeconfig.cache
+C:\Users\chris.freckleton\source\repos\Katas\ProperFractions\SpiralMaker\SpiralMaker\obj\Debug\net8.0\ref\SpiralMaker.dll
